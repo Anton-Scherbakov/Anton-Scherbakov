@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, i`m Anthon 👋</h1>
+<h1 align="center"> Hi there, i`m Anthon :hand:</h1>
 <h3 align="center">Java developer from Russia</h3>
 
 ---
