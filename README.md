@@ -1,4 +1,6 @@
-### Hi there, i`m Anthon 👋
+## Hi there, i`m Anthon 👋
+### Java developer from Russia
+
 <h1 align="center"> Hi there, i`m Anthon 👋</h1>
 <h3 align="center">Java developer from Russia 🇷🇺</h3>
 
