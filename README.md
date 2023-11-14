@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, i`m Anthon 👋</h1>
 <h3 align="center">𝔍𝔞𝔳𝔞 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 𝔣𝔯𝔬𝔪 ℜ𝔲𝔰𝔰𝔦𝔞 🇷🇺</h3>
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <!--
 **Anton-Scherbakov/Anton-Scherbakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
