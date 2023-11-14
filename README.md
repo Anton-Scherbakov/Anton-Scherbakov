@@ -1,8 +1,5 @@
-## Hi there, i`m Anthon 👋
-### Java developer from Russia
-
 <h1 align="center"> Hi there, i`m Anthon 👋</h1>
-<h3 align="center">Java developer from Russia 🇷🇺</h3>
+<h3 align="center">𝔍𝔞𝔳𝔞 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 𝔣𝔯𝔬𝔪 ℜ𝔲𝔰𝔰𝔦𝔞 🇷🇺</h3>
 
 <!--
 **Anton-Scherbakov/Anton-Scherbakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
